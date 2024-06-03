@@ -7,7 +7,7 @@ This is a weather application built with Node.js, Express, and MongoDB for the b
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/RawabyRahal/weather-app.git
 3. **Navigate to the project directory**:
    
     ```bash
