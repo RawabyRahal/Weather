@@ -14,7 +14,7 @@ This is a weather application built with Node.js, Express, and MongoDB for the b
     ```bash
    npm install
   
-Running the Application
+## Running the Application
 1. **Start the backend server**:
    ```bash
    node server/server.js
