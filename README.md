@@ -5,12 +5,13 @@ This is a weather application built with Node.js, Express, and MongoDB for the b
 ## Installation
 
 1. **Clone the repository**:
+2. 
    ```bash
    git clone https://github.com/yourusername/weather-app.git
-2. **Navigate to the project directory**:
+3. **Navigate to the project directory**:
     ```bash
     cd weather-app
-3. **Install backend dependencies**:
+4. **Install backend dependencies**:
     ```bash
    npm install
   
